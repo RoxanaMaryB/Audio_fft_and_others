@@ -1,4 +1,3 @@
-# Audio_fft_and_others
 **Nume: Baranga Roxana Mary**
 **Grupă: 311CA**
  # Tema 2 - Analiza datelor
